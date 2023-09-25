@@ -1,0 +1,36 @@
+header {
+    height: 100px;
+    width: 100%;
+    border-bottom: 10px solid lightblue;
+    background-color: darkgray;
+    display: flex;  
+}
+
+section {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid lightblue;
+    background-color: darkgrey;
+}
+
+h1 {
+    text-align:left;
+    line-height: 100px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;   
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.text-right {
+    text-align: right;
+}
